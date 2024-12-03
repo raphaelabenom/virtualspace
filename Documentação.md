@@ -16,7 +16,7 @@ O Sistema de Gestão de Contratos é uma aplicação web desenvolvida para otimi
 - Gestores de contratos
 - Administradores de sistemas
 
-![projeto](/workspaces/virtualspace/assets/images/Screenshot_1.png)
+![projeto](assets/images/Screenshot_1.png)
 
 ### 2.2 Componentes Principais
 - Frontend: HTMX + Tailwind CSS
